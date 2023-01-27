@@ -1,0 +1,278 @@
+ 
+personaggi.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mostro_fermo
+  rotate: false
+  xy: 1, 156
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: 0
+mostro_fermo
+  rotate: false
+  xy: 1, 58
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: 1
+mostro_fermo
+  rotate: false
+  xy: 99, 156
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: 2
+mostro_fermo
+  rotate: false
+  xy: 99, 58
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: 3
+mostro_movimento
+  rotate: false
+  xy: 197, 156
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: 0
+mostro_movimento
+  rotate: false
+  xy: 197, 58
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: 1
+mostro_movimento
+  rotate: false
+  xy: 295, 156
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: 2
+mostro_movimento
+  rotate: false
+  xy: 295, 58
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: 3
+mostro_movimento
+  rotate: false
+  xy: 393, 156
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: 4
+mostro_movimento
+  rotate: false
+  xy: 393, 58
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: 5
+mostro_movimento
+  rotate: false
+  xy: 491, 156
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: 6
+mostro_movimento
+  rotate: false
+  xy: 491, 58
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: 7
+protagonista_fermo
+  rotate: false
+  xy: 1, 1
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: 0
+protagonista_fermo
+  rotate: false
+  xy: 1, 1
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: 1
+protagonista_fermo
+  rotate: false
+  xy: 589, 197
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: 2
+protagonista_fermo
+  rotate: false
+  xy: 589, 197
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: 3
+protagonista_movimento
+  rotate: false
+  xy: 53, 1
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: 0
+protagonista_movimento
+  rotate: false
+  xy: 589, 140
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: 1
+protagonista_movimento
+  rotate: false
+  xy: 589, 140
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: 3
+protagonista_movimento
+  rotate: false
+  xy: 641, 197
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: 2
+protagonista_salto
+  rotate: false
+  xy: 105, 1
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+protagonista_salto_e_sparo
+  rotate: false
+  xy: 589, 83
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: 0
+protagonista_salto_e_sparo
+  rotate: false
+  xy: 641, 140
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: 1
+protagonista_salto_e_sparo
+  rotate: false
+  xy: 693, 197
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: 2
+protagonista_salto_e_sparo
+  rotate: false
+  xy: 157, 1
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: 3
+protagonista_sparo
+  rotate: false
+  xy: 641, 83
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: 0
+protagonista_sparo
+  rotate: false
+  xy: 693, 140
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: 1
+protagonista_sparo
+  rotate: false
+  xy: 745, 197
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: 2
+protagonista_sparo
+  rotate: false
+  xy: 209, 1
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: 3
+ammo
+  rotate: false
+  xy: 693, 88
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+medikit
+  rotate: false
+  xy: 745, 145
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+cane_movimento
+  rotate: false
+  xy: 797, 223
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: 0
+cane_movimento
+  rotate: false
+  xy: 261, 27
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: 1
+cane_movimento
+  rotate: false
+  xy: 745, 114
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: 2
+cane_movimento
+  rotate: false
+  xy: 797, 192
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: 3
+cane_movimento
+  rotate: false
+  xy: 844, 223
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: 4
+mitra
+  rotate: false
+  xy: 797, 155
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+proiettile_movimento
+  rotate: false
+  xy: 589, 73
+  size: 32, 8
+  orig: 32, 8
+  offset: 0, 0
+  index: 0
+proiettile_movimento
+  rotate: false
+  xy: 261, 17
+  size: 32, 8
+  orig: 32, 8
+  offset: 0, 0
+  index: 1
